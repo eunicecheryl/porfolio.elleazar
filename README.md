@@ -34,10 +34,12 @@ Manual testing
 
 can perform manual functional and usability testing of web applications
 gained hands-on experience by testing applications created for educational purposes
+
 Test analysis & design
 
 familiar with functional decomposition of products, creating state transition diagrams, writing use cases
 can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+
 API testing
 
 know the difference between SOAP and REST APIs
@@ -46,15 +48,18 @@ know how to manipulate requests and create test cases using the SoapUI tool
 Exploratory testing
 
 capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+
 Test documentation
 
 can create test cases and checklists and know how and in which situations to use them effectively
 able to prepare comprehensive bug reports and provide detailed session reports
+
 SQL databases
 
 can write complex requests using subqueries
 familiar with the use of aliases and wildcards
 know the difference between joins and unions and can use them in queries
+
 Python fundamentals
 
 can write simple functions and algorithms
