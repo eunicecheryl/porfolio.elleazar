@@ -121,20 +121,21 @@ __MasterClass Software Testing with Jira & Agile -Be a QA Lead__
 
 __8 HR lECTURE OF SOFTWARE QUALITY ASSURANCE TESTING__
 * MST Connect
-[View certificate here](https://www.linkedin.com/feed/update/urn:li:activity:6852975833338974208/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6852975833338974208%29)
+* [View certificate here](https://www.linkedin.com/feed/update/urn:li:activity:6852975833338974208/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6852975833338974208%29)
 
 __Testflix - GLOBAL SOFTWARE TESTING BINGE 2022__
 * The Test Tribe Community
 
 __Testflix - GLOBAL SOFTWARE TESTING BINGE 2021__
 * The Test Tribe Community
-[View certificate here](https://www.linkedin.com/feed/update/urn:li:activity:6858760194680270848/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6858760194680270848%29)
+* [View certificate here](https://www.linkedin.com/feed/update/urn:li:activity:6858760194680270848/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6858760194680270848%29)
 
 ## Certifications
 
 __SCRUM FUNDAMENTALS CERTIFIED__
 * October 2021
-* Certificate ID: 881171 [View certificate here](https://www.linkedin.com/feed/update/urn:li:activity:6860618744956293120/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6860618744956293120%29](https://www.scrumstudy.com/certification/verify?type=SFC&number=881171)
+* Certificate ID: 881171 
+* [View certificate here](https://www.scrumstudy.com/certification/verify?type=SFC&number=881171)
 
 
 ## Examples of my work
