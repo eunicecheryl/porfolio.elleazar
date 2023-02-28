@@ -24,7 +24,7 @@ I am attentive to detail and strives for excellence in my work. I have a keen ey
 
 Always committed to delivering results and providing exceptional customer service, and take great pride in the ability to contribute to the success of software development projects. On the other hand, because of my personality I effectively collaborate and work with others towards a common goal.
 
-Now that you have an idea about me. Here's the truth: Your products will only be delivered with high quality if you have a great Software tester.
+Now that you have an idea about me. Here's the truth: Your products will only be delivered with high quality if you have a GREAT Software QA.
 
 ## Skills
 
