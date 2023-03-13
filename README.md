@@ -140,7 +140,10 @@ __SCRUM FUNDAMENTALS CERTIFIED__
 
 ## Examples of my work
 
- ### Test Cases
+### Test Cases and work in Test Trail
+
+* [BDO Web Application](https://www.bdo.com.ph/personal) was used to create Test case 
+    * Test Case for Login and Money Transfer to Another Bank Test Case. You can check my work here. [BDO01_Test Case](https://docs.google.com/spreadsheets/d/1vSPWBnBoPnAMRAyTzF0UFG3GzyjzLlft9ykv7KRl9fc/edit?usp=share_link)
  
  ### Bug reports in Jira
  
