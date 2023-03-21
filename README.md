@@ -183,11 +183,15 @@ __SQL ADVANCED CERTIFICATE__
 
 
 ### Works in Test Trail
- * Test Run and Results [You can check the screenshot here: Test Trail: Test Run and Results](https://drive.google.com/file/d/12F0Kr2QTkuCBzUg3UB7cIv5sPfgmDsEH/view?usp=share_link)
- * Test Case for Prerequisites [You can check the screenshot here: Test Trail: Prerequisites](https://drive.google.com/file/d/14aX_bEOLsk-FbDZbmQIu_3E-PkWqtDPi/view?usp=share_link)
- * Test Case for Login and Reset password [You can check the screenshot here: Test Trail: Login and Reset password](https://drive.google.com/file/d/1NK7To7jgfh0D63QigRacxrtx-PsmWDth/view?usp=share_link)
+ * Test Run and Results [You can check the document here: Test Trail: Test Run and Results](https://drive.google.com/file/d/12F0Kr2QTkuCBzUg3UB7cIv5sPfgmDsEH/view?usp=share_link)
+ * Test Case for Prerequisites [You can check the document here: Test Trail: Prerequisites](https://drive.google.com/file/d/14aX_bEOLsk-FbDZbmQIu_3E-PkWqtDPi/view?usp=share_link)
+ * Test Case for Login and Reset password [You can check the document here: Test Trail: Login and Reset password](https://drive.google.com/file/d/1NK7To7jgfh0D63QigRacxrtx-PsmWDth/view?usp=share_link)
  
  
  ### Bug reports in Jira
  
- ### Test Report
+ * Sample of Bug tickets created
+   * Uploading reports using Admin Dashboard error [You can check the screenshot here: Bug Ticket 1](https://drive.google.com/file/d/1XY5wv9OgdPwLIRxhA_zDYGgse6JRlHYy/view?usp=share_link)
+   * Uploading attachment error 
+   * [You can check the screenshot here: Bug Ticket 2](https://drive.google.com/file/d/1SNNo-JfX6aRCYf9Jf6KQy5RSqHQxGYTy/view?usp=share_link)
+   * [You can check the screenshot here: Bug Ticket 2.1](https://drive.google.com/file/d/1b9KK3uQca4SihkikNdSE-qUwG7BkJ3Q1/view?usp=share_link)
