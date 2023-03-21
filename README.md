@@ -3,9 +3,11 @@
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Trainings and Seminars](trainings-and-seminars)
+- [Trainings and Courses](#trainings-and-courses)
+- [Certifications](#certifications)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases](#test-cases)
+  * [Works in Test Trail](#works-in-test-trail)
   * [Bug reports in Jira](#bug-reports-in-jira)
   * [Test report](#test-report)
 
@@ -149,10 +151,12 @@ __SQL INTERMEDIATE CERTIFIED__
 
 ## Examples of my work
 
-### Test Cases and work in Test Trail
+### Test Cases
 
 * [BDO Web Application](https://www.bdo.com.ph/personal) was used to create Test case 
     * Test Case for Login and Money Transfer to Another Bank Test Case. You can check my work here. [BDO01_Test Case](https://docs.google.com/spreadsheets/d/1vSPWBnBoPnAMRAyTzF0UFG3GzyjzLlft9ykv7KRl9fc/edit?usp=share_link)
+
+### Works in Test Trail
  
  ### Bug reports in Jira
  
