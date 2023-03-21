@@ -13,7 +13,7 @@
   * [Test report](#test-report)
 
 ## Curriculum Vitae
-You can view my CV here
+You can view my CV here [Elleazar CV](https://drive.google.com/file/d/1xuT_PUJwDEiKBG7dtlh7tNV1D_NvBED8/view?usp=share_link)
 
 ## About Me
 
