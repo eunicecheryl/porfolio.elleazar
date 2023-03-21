@@ -5,6 +5,7 @@
 - [Tools](#tools)
 - [Trainings and Courses](#trainings-and-courses)
 - [Certifications](#certifications)
+- [Honors and Awards](#honors-and-awards)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases](#test-cases)
   * [Works in Test Trail](#works-in-test-trail)
@@ -141,13 +142,30 @@ __SCRUM FUNDAMENTALS CERTIFIED__
 
 __SQL BASIC CERTIFIED__
 * March 2023
-* Certificate ID:F1E64EE9FE06
+* Certificate ID: F1E64EE9FE06
 * [View certificate here](https://www.hackerrank.com/certificates/f1e64ee9fe06?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
 
 __SQL INTERMEDIATE CERTIFIED__
 * March 2023
-* Certificate ID:D188AF219B75
+* Certificate ID: D188AF219B75
 * [View certificate here](https://www.hackerrank.com/certificates/d188af219b75?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
+
+__SQL ADVANCED CERTIFICATE__
+* March 2023
+* Certificate ID: A71FE2AB0A30
+* [View certificate here](https://www.hackerrank.com/certificates/a71fe2ab0a30)
+
+
+## Honors and Awards 
+
+### Software QA of the Month - November 2022
+* [View certificate here](https://drive.google.com/file/d/1CvxUGP69o8b2wvL50iQ2yJ3bx4Sf_6LG/view?usp=share_link)
+
+### Software QA of the Month - August 2022
+* [View certificate here](https://drive.google.com/file/d/18DtNjnOH5_L0IQwzp4yONXMgKzyRgHKa/view?usp=share_link)
+
+### Software QA of the Month - October 2021
+* [View certificate here](https://drive.google.com/file/d/1sIxRuOIJLMfDJDJW0TUs-UaVxnCsR4rJ/view?usp=share_link)
 
 ## Examples of my work
 
@@ -155,6 +173,8 @@ __SQL INTERMEDIATE CERTIFIED__
 
 * [BDO Web Application](https://www.bdo.com.ph/personal) was used to create Test case 
     * Test Case for Login and Money Transfer to Another Bank Test Case. You can check my work here. [BDO01_Test Case](https://docs.google.com/spreadsheets/d/1vSPWBnBoPnAMRAyTzF0UFG3GzyjzLlft9ykv7KRl9fc/edit?usp=share_link)
+
+
 
 ### Works in Test Trail
  
