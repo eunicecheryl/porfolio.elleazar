@@ -20,9 +20,9 @@ I am Eunice.
 
 I am a Software QA engineer for 4 years with a strong background in software testing, quality assurance, and process improvement. Passionate about ensuring that products are of the highest quality and meet the needs of the end-users. 
 
-I am attentive to detail and strives for excellence in my work. I have a keen eye for spotting errors or inconsistencies and committed to ensuring that my work is accurate and precise.
+I am attentive to detail and strive for excellence in my work. I have a keen eye for spotting errors or inconsistencies and am committed to ensuring that my work is accurate and precise.
 
-Always committed to delivering results and providing exceptional customer service, and take great pride in the ability to contribute to the success of software development projects. On the other hand, because of my personality I effectively collaborate and work with others towards a common goal.
+Always committed to delivering results and providing exceptional customer service, and take great pride in my ability to contribute to the success of software development projects. On the other hand, because of my personality, I effectively collaborate and work with others toward a common goal.
 
 Now that you have an idea about me. Here's the truth: Your products will only be delivered with high quality if you have a GREAT Software QA.
 
@@ -137,10 +137,15 @@ __SCRUM FUNDAMENTALS CERTIFIED__
 * Certificate ID: 881171 
 * [View certificate here](https://www.scrumstudy.com/certification/verify?type=SFC&number=881171)
 
-__SQL CERTIFIED__
+__SQL BASIC CERTIFIED__
 * March 2023
-* Certificate ID:D1420FF8A9FE
-* [View certificate here](https://www.hackerrank.com/certificates/d1420ff8a9fe?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
+* Certificate ID:F1E64EE9FE06
+* [View certificate here](https://www.hackerrank.com/certificates/f1e64ee9fe06?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
+
+__SQL INTERMEDIATE CERTIFIED__
+* March 2023
+* Certificate ID:D188AF219B75
+* [View certificate here](https://www.hackerrank.com/certificates/d188af219b75?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
 
 ## Examples of my work
 
