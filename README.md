@@ -50,12 +50,12 @@ __Manual testing__
 __Test analysis & design__
 
 * familiar with testing techniques and strategies such as black-box testing
-* has a strong analytical and problem-solving skills to identify defects and troubleshoot issues
+* has strong analytical and problem-solving skills to identify defects and troubleshoot issues
 * attention to detail and a methodical approach to testing software
 
 __Test documentation__
 
-* able to write bugs, track and report product defects and assist developers with the resolution 
+* able to write bugs, track, and report product defects, and assist developers with the resolution 
 * can create test cases and test checklists and is knowledgeable about how and when to use them effectively
 * capable of producing comprehensive bug reports and detailed session reports
 
@@ -137,6 +137,10 @@ __SCRUM FUNDAMENTALS CERTIFIED__
 * Certificate ID: 881171 
 * [View certificate here](https://www.scrumstudy.com/certification/verify?type=SFC&number=881171)
 
+__SQL CERTIFIED__
+* March 2023
+* Certificate ID:D1420FF8A9FE
+* [View certificate here](https://www.hackerrank.com/certificates/d1420ff8a9fe?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
 
 ## Examples of my work
 
