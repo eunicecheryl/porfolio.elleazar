@@ -7,7 +7,7 @@
 - [Certifications](#certifications)
 - [Honors and Awards](#honors-and-awards)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases](#test-cases)
+  * [Test Cases and Test Checklists](#test-cases-and-test-checklist)
   * [Works in Test Trail](#works-in-test-trail)
   * [Bug reports in Jira](#bug-reports-in-jira)
   * [Test report](#test-report)
@@ -169,14 +169,24 @@ __SQL ADVANCED CERTIFICATE__
 
 ## Examples of my work
 
-### Test Cases
+### Test Cases and Test Checklists
 
 * [BDO Web Application](https://www.bdo.com.ph/personal) was used to create Test case 
-    * Test Case for Login and Money Transfer to Another Bank Test Case. You can check my work here. [BDO01_Test Case](https://docs.google.com/spreadsheets/d/1vSPWBnBoPnAMRAyTzF0UFG3GzyjzLlft9ykv7KRl9fc/edit?usp=share_link)
+    * Test Case for Login and Money Transfer to Another Bank Test: [You can check my work here: BDO01_Test Case](https://docs.google.com/spreadsheets/d/1vSPWBnBoPnAMRAyTzF0UFG3GzyjzLlft9ykv7KRl9fc/edit?usp=share_link)
 
+* [Honda Cars Batangas](https://hondacarsbatangas.com/home) was used to create Test case of Admin Management Interface of this Web Application
+    * Test Case for Honda Cars AMI User Management: [You can check my work here: HCPH_USER01](https://docs.google.com/spreadsheets/d/1O4lufv4STvgP87bMaGd1bANq9S30tVeTDM-xZu_3P9o/edit?usp=share_link)
+    * Test Case for Honda Cars AMI Content Management: [You can check my work here: HCPH_CONTENT01](https://docs.google.com/spreadsheets/d/1-BQXeOWMezBa0ce9sos64Z7eS1ICkzPDXa5DjMOzX1Q/edit?usp=share_link)
+
+* [Gov. Jonvic Remulla Website](https://jonvicremulla.com/) was used to create Test Checklist of Gov. Jonvic Remulla Website 
+    * Test Case for Gov Jonvic Remulla Website: [You can check my work here: PAJRW-1 Checklist](https://docs.google.com/spreadsheets/d/1WGLn8-_ZIruHTWA9jF-XvXx4AGgxgtkpJzuhZJ0zG3k/edit?usp=share_link)
 
 
 ### Works in Test Trail
+ * Test Run and Results [You can check the screenshot here: Test Trail: Test Run and Results](https://drive.google.com/file/d/12F0Kr2QTkuCBzUg3UB7cIv5sPfgmDsEH/view?usp=share_link)
+ * Test Case for Prerequisites [You can check the screenshot here: Test Trail: Prerequisites](https://drive.google.com/file/d/14aX_bEOLsk-FbDZbmQIu_3E-PkWqtDPi/view?usp=share_link)
+ * Test Case for Login and Reset password [You can check the screenshot here: Test Trail: Login and Reset password](https://drive.google.com/file/d/1NK7To7jgfh0D63QigRacxrtx-PsmWDth/view?usp=share_link)
+ 
  
  ### Bug reports in Jira
  
