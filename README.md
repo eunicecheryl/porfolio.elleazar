@@ -10,7 +10,6 @@
   * [Test Cases and Test Checklists](#test-cases-and-test-checklist)
   * [Works in Test Trail](#works-in-test-trail)
   * [Bug reports in Jira](#bug-reports-in-jira)
-  * [Test report](#test-report)
 
 ## Curriculum Vitae
 You can view my CV here [Elleazar CV](https://drive.google.com/file/d/1xuT_PUJwDEiKBG7dtlh7tNV1D_NvBED8/view?usp=share_link)
