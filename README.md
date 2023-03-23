@@ -34,7 +34,7 @@ __Manual testing__
 
 * can execute manual tests to verify that the software or application is working correctly and as intended.
 * knowledgeable to Agile and software testing methodologies.
-* can perform manual functional and usability testing of web applications
+* can perform manual functional and usability testing of web and mobile applications 
 * thorough understanding of the following types of testing: 
   * Functional
   * Usability
