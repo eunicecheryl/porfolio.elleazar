@@ -32,7 +32,7 @@ Now that you have an idea about me. Here's the truth: Your products will only be
 
 __Manual testing__
 
-* can execute manual tests to verify that the software or application is working correctly and as intended.
+* can execute manual tests to verify that the Web or Mobile application is working correctly and as intended.
 * knowledgeable to Agile and software testing methodologies.
 * can perform manual functional and usability testing of web and mobile applications 
 * thorough understanding of the following types of testing: 
@@ -48,7 +48,7 @@ __Manual testing__
   * Sanity
   * E2E 
   * Regression 
-
+   
 __Test analysis & design__
 
 * familiar with testing techniques and strategies such as black-box testing
