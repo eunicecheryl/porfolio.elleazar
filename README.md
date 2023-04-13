@@ -8,7 +8,7 @@
 - [Honors and Awards](#honors-and-awards)
 - [Examples of my work](#examples-of-my-work)
   * [Test Cases and Test Checklists](#test-cases-and-test-checklist)
-  * [Works in Test Trail](#works-in-test-trail)
+  * [Works in Test Rail](#works-in-test-rail)
   * [Bug reports in Jira](#bug-reports-in-jira)
 
 ## Curriculum Vitae
@@ -181,7 +181,7 @@ __SQL ADVANCED CERTIFICATE__
     * Test Case for Gov Jonvic Remulla Website: [You can check my work here: PAJRW-1 Checklist](https://docs.google.com/spreadsheets/d/1WGLn8-_ZIruHTWA9jF-XvXx4AGgxgtkpJzuhZJ0zG3k/edit?usp=share_link)
 
 
-### Works in Test Trail
+### Works in Test Rail
  * Test Run and Results [You can check the document here: Test Trail: Test Run and Results](https://drive.google.com/file/d/12F0Kr2QTkuCBzUg3UB7cIv5sPfgmDsEH/view?usp=share_link)
  * Test Case for Prerequisites [You can check the document here: Test Trail: Prerequisites](https://drive.google.com/file/d/14aX_bEOLsk-FbDZbmQIu_3E-PkWqtDPi/view?usp=share_link)
  * Test Case for Login and Reset password [You can check the document here: Test Trail: Login and Reset password](https://drive.google.com/file/d/1NK7To7jgfh0D63QigRacxrtx-PsmWDth/view?usp=share_link)
