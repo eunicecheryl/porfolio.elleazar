@@ -182,9 +182,9 @@ __SQL ADVANCED CERTIFICATE__
 
 
 ### Works in Test Rail
- * Test Run and Results [You can check the document here: Test Trail: Test Run and Results](https://drive.google.com/file/d/12F0Kr2QTkuCBzUg3UB7cIv5sPfgmDsEH/view?usp=share_link)
- * Test Case for Prerequisites [You can check the document here: Test Trail: Prerequisites](https://drive.google.com/file/d/14aX_bEOLsk-FbDZbmQIu_3E-PkWqtDPi/view?usp=share_link)
- * Test Case for Login and Reset password [You can check the document here: Test Trail: Login and Reset password](https://drive.google.com/file/d/1NK7To7jgfh0D63QigRacxrtx-PsmWDth/view?usp=share_link)
+ * Test Run and Results [You can check the document here: Test Rail: Test Run and Results](https://drive.google.com/file/d/12F0Kr2QTkuCBzUg3UB7cIv5sPfgmDsEH/view?usp=share_link)
+ * Test Case for Prerequisites [You can check the document here: Test Rail: Prerequisites](https://drive.google.com/file/d/14aX_bEOLsk-FbDZbmQIu_3E-PkWqtDPi/view?usp=share_link)
+ * Test Case for Login and Reset password [You can check the document here: Test Rail: Login and Reset password](https://drive.google.com/file/d/1NK7To7jgfh0D63QigRacxrtx-PsmWDth/view?usp=share_link)
  
  
  ### Bug reports in Jira
