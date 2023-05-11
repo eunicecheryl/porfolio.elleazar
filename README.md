@@ -12,7 +12,7 @@
   * [Bug reports in Jira](#bug-reports-in-jira)
 
 ## Curriculum Vitae
-You can view my CV here [Elleazar CV](https://drive.google.com/file/d/1aMiM_nCCtJuaSC3BmleriDG08Q4k0GBD/view?usp=share_link)
+You can view my CV here [Elleazar CV](https://drive.google.com/file/d/1IJSILqMCPCejZqcC9Us3TAK8EpmQyF19/view?usp=share_link)
 
 ## About Me
 
