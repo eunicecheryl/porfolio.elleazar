@@ -14,13 +14,13 @@
 ## Curriculum Vitae
 You can view my CV here [Elleazar CV](https://drive.google.com/file/d/1IJSILqMCPCejZqcC9Us3TAK8EpmQyF19/view?usp=share_link)
 
-## About Me
+## Profile Summary
 
 Hello there,
 
 I am Eunice.
 
-I am a Software QA engineer for 4 years with a strong background in software testing, quality assurance, and process improvement. Passionate about ensuring that products are of the highest quality and meet the needs of the end-users. 
+I have been a Software QA engineer for 4 years with a strong background in software testing, quality assurance, and process improvement. Passionate about ensuring that products are of the highest quality and meet the needs of the end-users. 
 
 I am attentive to detail and strive for excellence in my work. I have a keen eye for spotting errors or inconsistencies and am committed to ensuring that my work is accurate and precise.
 
